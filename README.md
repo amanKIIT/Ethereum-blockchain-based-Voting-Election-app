@@ -17,3 +17,7 @@ Metamask : https://metamask.io
 truffle migrate --reset
 npm run dev
 ```
+
+
+https://user-images.githubusercontent.com/101529964/230741451-82b06687-cda2-4db2-aa4f-070e640a6786.mp4
+
